@@ -15,6 +15,7 @@ This project is implemented using the following Python libraries:
 `matplotlib`
 `seaborn`
 `scipy`
+`outlier-utils`
 
 ## Dataset
 
