@@ -1,6 +1,6 @@
 # Apple Stock Option Price Valuation with Black-Scholes
 
-## Business ProblemBusiness Problem
+## Business Problem
 
 The goal of this project is to implement the Black-Scholes equation to determine an option's strike price using Apple Stock's time series data from 2022-05-03 to 2023-05-03. The project calculates the daily returns as a logarithmic difference, the stock's volatility, and determines the call option value based on the user's input.
 
